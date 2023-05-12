@@ -27,5 +27,3 @@ function Counter({ initialCount }) {
 }
 
 export default Counter
-
-// try to fix the ids
